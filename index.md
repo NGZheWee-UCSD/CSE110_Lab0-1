@@ -35,7 +35,7 @@ Check them out:
 ## 3. Social Life  
 Just to prove that I am a pets fetish (particularly into parrors) and that I have friends:
 ![Pets fetish](docs/3.1.jpg)
-![My social life](docs/3.1.jpg)
+![My social life](docs/3.2.jpg)
 > WARNING: Please comply to the federal laws and regulations for drinking  
 
   
