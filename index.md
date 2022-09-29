@@ -32,14 +32,14 @@ Check them out:
 > WARNING: Please comply to the federal laws and regulations for Shooting (in shooting range) & Hunting  
   
   
-## 3. Social Life
+## 3. Social Life  
 Just to prove that I am a pets fetish (particularly into parrors) and that I have friends:
 ![Pets fetish](docs/3.1.jpg)
 ![My social life](docs/3.1.jpg)
 > WARNING: Please comply to the federal laws and regulations for drinking  
-  
 
-## 4. Programming Language Proficiencies 
+  
+## 4. Programming Language Proficiencies  
 Below is a list of the programming language I am interested. I've marked the ones I'm more familair with and for each of them I wrote a code snippet to demonstrate so：
 
 - [x] ([C](https://en.wikipedia.org/wiki/C_(programming_language)))
