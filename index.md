@@ -28,7 +28,7 @@ Some of my hobbies include:
 
 Check them out:
 ![Some miscellaneous hobbies 1](docs/2.1.jpg)
-![Some miscellaneous hobbies 2](docs/2.1.jpg) 
+![Some miscellaneous hobbies 2](docs/2.2.jpg) 
 > WARNING: Please comply to the federal laws and regulations for Shooting (in shooting range) & Hunting  
   
   
